@@ -1,0 +1,630 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	
+/*header{
+	padding: 10px 0;
+}*/
+	/*header start*/
+
+.s_bar {
+    background-color: #c3bfbc;
+    border: none;
+    border-radius: 3.25rem;
+    margin-right: 0 !important;
+    margin-left: 165px;
+}
+.menu ul li a {
+    padding: 10px 0 0 !important;
+    font-size: 13px;
+    text-align: right;
+}
+	/*header end*/
+	/*banner*/
+.cm_h1 {
+    font-family: OpenSans-ExtraBold;
+    font-weight: 800;
+    font-size: 42px;
+    color: #e2a355;
+    padding-bottom: 7px;
+}
+.cm_text {
+    font-size: 14px;
+    color: #7f7770;
+    padding-bottom: 45px;
+}
+.b_item {
+    padding-top: 384px;
+}
+.b_h1 h1 {
+    font-size: 63px;
+    margin-right: 107px;
+}
+.s_feature {
+    margin-right: 0;
+}
+	/*banner*/
+
+.b_ftr {
+    margin-top: 39px;
+    font-size: 12px;
+}
+
+/*cards*/
+.c_sec {
+    padding-top: 80px;
+}
+.c_txt {
+    padding-right: 15px;
+    padding-left: 18px;
+    background-color: #7f7770;
+    padding-top: 20px;
+    padding-bottom: 45px;
+}
+.c_hd {
+    font-family: OpenSans-Bold;
+    font-size: 32px;
+    color: white;
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+.c_pr {
+    font-family: OpenSans-Regular;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 20px;
+    color: white;
+}
+.c_btn {
+    margin-bottom: 0px;
+    font-family: OpenSans-Bold !important;
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+    border: 1px solid #e2a355;
+    background-color: #e2a355;
+    border-radius: 40px;
+    letter-spacing: 2px;
+}
+.ed {
+    background-color: #deb37e;
+}
+/*cards*/
+
+/*slogan*/
+
+
+.slogan {
+    width: 90%;
+    padding: 124px;
+}
+.s_hd h1 {
+    font-size: 36px;
+
+}
+.s_pr p {
+    margin: 0px 0px;
+    font-size: 18px;
+}
+/*slogan*/
+
+.sub {
+    color: white;
+}
+footer{
+    padding-bottom: 70px;
+}
+
+.f_1{
+    text-align: center;
+    
+}
+.f_2{
+    text-align: center;
+    margin-top: 30px;
+}
+
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header{
+	padding: 10px 0;
+}*/
+	/*header start*/
+.menu ul li a{
+	padding: 10px 0 0 !important;
+	font-size: 18px;
+	text-align: right;
+}
+
+.s_bar {
+    margin-left: 308px;
+}
+
+	/*header end*/
+
+	/*banner*/
+
+.b_item {
+    padding-top: 355px;
+}
+.b_h1 h1 {
+    margin-right: 10px;
+    font-size: 62px;
+
+}
+.b_h2 {
+    font-size: 16px;
+    padding-bottom: 100px;
+}
+.b_text {
+    font-family: OpenSans-Italic;
+    font-size: 17px;
+}
+
+.s_feature {
+    margin-right: 10px;
+}
+	/*banner*/
+.cm_h1 {
+    font-family: OpenSans-ExtraBold;
+    font-weight: 800;
+    font-size: 61px;
+    color: #e2a355;
+    padding-bottom: 19px;
+}
+.cm_text {
+    font-size: 20px;
+    color: #7f7770;
+    padding-bottom: 52px;
+}
+
+.b_ftr {
+    margin-top: 32px;
+    font-size: 14px;
+}
+/*card*/
+.c_sec {
+    padding-top: 100px;
+}
+.c_txt {
+    padding-right: 90px;
+    padding-left: 40px;
+    background-color: #7f7770;
+    padding-top: 48px;
+    padding-bottom: 0px;
+}
+.ed {
+    background-color: #deb37e;
+    padding-right: 40px;
+    padding-left: 62px;
+}
+/*card*/
+
+
+/*slogan*/
+
+.slogan {
+    width: 91%;
+    padding: 118px;
+}
+
+.s_hd h1 {
+ 
+    font-size: 33px;
+}
+.s_pr p {
+    font-size: 16px;
+}
+
+
+/*slogan*/
+.sub {
+    color: white;
+}
+/*footer start*/
+footer{
+    padding-bottom: 70px;
+}
+
+.f_1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.f_2{
+    text-align: center;
+}
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+		/*header start*/
+.menu ul li a{
+	padding: 10px 0 0 !important;
+	text-align: right;
+}
+.s_bar {
+
+    margin-left: 530px;
+}
+	/*header end*/
+	/*banner*/
+.b_item {
+    padding-top: 356px;
+}
+.b_h1 h1 {
+    font-family: OpenSans-ExtraBold;
+    font-size: 76px;
+    font-weight: 800;
+    color: #deb37e;
+    margin-right: 0px;
+    font-size: 56px;
+}
+
+.b_h2 {
+    font-family: OpenSans-BoldItalic;
+    font-weight: 700;
+    font-size: 18px;
+    padding-bottom: 118px;
+}
+.b_btn {
+
+    margin-bottom: 23px;
+}
+
+.b_text {
+
+    font-size: 16px;
+}
+	/*banner*/
+
+.b_ftr {
+    margin-top: 50px;
+    font-size: 14px;
+}
+.cm_h1 {
+    font-family: OpenSans-ExtraBold;
+    font-weight: 800;
+    font-size: 66px;
+    color: #e2a355;
+    padding-bottom: 29px;
+}
+.cm_text {
+    font-size: 24px;
+    color: #7f7770;
+    padding-bottom: 82px;
+}
+
+/*slogan*/
+
+.slogan {
+    width: 92%;
+    padding: 153px;
+}
+.s_hd h1 {
+    font-size: 43px;
+}
+.s_pr p {
+    font-size: 17px;
+
+}
+
+/*slogan*/
+.example{
+    text-align: center;
+    padding-left: 145px;
+}
+.q_txt {
+    margin: 0 186px;
+    font-family: OpenSans-SemiBold;
+    font-size: 14px;
+    font-weight: 600;
+    padding-top: 143px;
+    padding-bottom: 30px;
+    color: #3f3f3f;
+}
+.q_ftr {
+    font-family: OpenSans-Bold;
+    font-size: 18px;
+    font-weight: 700;
+    padding-bottom: 50px;
+    color: #3f3f3f;
+}
+
+.sub {
+    color: white;
+}
+
+footer{
+    padding-bottom: 100px;
+
+}
+
+
+}
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+.cm_h1 {
+    font-family: OpenSans-ExtraBold;
+    font-weight: 800;
+    font-size: 70px;
+    color: #e2a355;
+    padding-bottom: 25px;
+}
+.cm_text {
+    font-size: 27px;
+    color: #7f7770;
+    padding-bottom: 90px;
+}
+
+
+.b_item {
+    padding-top: 355px;
+}
+.b_h2 {
+;
+    font-size: 20px;
+    padding-bottom: 155px;
+}
+.b_h1 h1 {
+
+    font-size: 76px;
+}
+.b_btn {
+
+margin-bottom: 20px;
+}
+.b_text {
+    font-family: OpenSans-Italic;
+    font-size: 18px;
+}
+.b_ftr {
+
+    font-size: 13px;
+
+}
+/*card*/
+.c_txt {
+    padding-right: 90px;
+    padding-left: 40px;
+    background-color: #7f7770;
+    padding-top: 72px;
+    padding-bottom: 93px;
+}
+.c_hd {
+    font-family: OpenSans-Bold;
+    font-size: 35px;
+    color: white;
+    font-weight: 700;
+    padding-bottom: 18px;
+}
+.c_pr {
+    font-family: OpenSans-Regular;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 30px;
+    color: white;
+}
+.c_btn {
+    margin-bottom: 43px;
+    font-family: OpenSans-Bold !important;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+    border: 1px solid #e2a355;
+    background-color: #e2a355;
+    border-radius: 40px;
+    letter-spacing: 2px;
+}
+.ed{
+    background-color: #deb37e;
+    padding-right: 40px;
+    padding-left: 90px;
+}
+/*card*/
+
+/*slogan*/
+
+.slogan {
+    width: 95%;
+    padding: 172px;
+}
+
+.s_hd h1 {
+    font-size: 43px;
+}
+.s_pr p {
+    font-size: 18px;
+
+}
+
+/*slogan*/
+.f_h {
+    font-size: 23px;
+    font-weight: 700;
+}
+.f_p {
+    font-size: 13px;
+
+}
+.q_txt {
+    margin: 0 186px;
+    font-family: OpenSans-SemiBold;
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 143px;
+    padding-bottom: 30px;
+    color: #3f3f3f;
+}
+.q_ftr {
+    font-family: OpenSans-Bold;
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 50px;
+    color: #3f3f3f;
+}
+.sub {
+    color: white;
+}
+
+
+}
+/* X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+.b_item {
+    padding-top: 300px;
+}
+.b_h2 {
+    font-family: OpenSans-BoldItalic;
+    font-weight: 700;
+    font-size: 30px;
+    padding-bottom: 65px;
+}
+.b_submit {
+    font-size: 27px;
+    color: #776c64;
+}
+.b_btn {
+    width: 226px;
+    height: auto;
+    font-family: OpenSans-ExtraBold;
+    font-weight: 800;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 68px;
+    margin-bottom: 20px;
+}
+.b_text {
+    font-family: OpenSans-Italic;
+    font-size: 25px;
+    padding-right: 176px;
+}
+
+.c_txt {
+    padding-right: 90px;
+    padding-left: 40px;
+    background-color: #7f7770;
+    padding-top: 118px;
+    padding-bottom: 87px;
+}
+.c_hd {
+    font-family: OpenSans-Bold;
+    font-size: 45px;
+    color: white;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+.c_pr {
+    font-family: OpenSans-Regular;
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 30px;
+    color: white;
+}
+.ed {
+    background-color: #deb37e;
+    padding-right: 40px;
+    padding-left: 90px;
+}
+.slogan {
+    width: 95%;
+    padding: 200px;
+}
+.f_h {
+    font-size: 27px;
+    font-weight: 700;
+}
+.f_p {
+    font-size: 15px;
+
+}
+.q_txt {
+    margin: 0 186px;
+    font-family: OpenSans-SemiBold;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 143px;
+    padding-bottom: 30px;
+    color: #3f3f3f;
+}
+.sub {
+    color: white;
+}
+
+
+}
+
+/* XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+.b_item {
+    padding-top: 390px;
+}
+
+.b_h2 {
+    font-family: OpenSans-BoldItalic;
+    font-weight: 700;
+    font-size: 25px;
+    padding-bottom: 150px;
+}
+.b_submit {
+    font-size: 27px;
+    color: #776c64;
+}
+.b_btn {
+    width: 226px;
+    height: auto;
+    font-family: OpenSans-ExtraBold;
+    font-weight: 800;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 68px;
+    margin-bottom: 20px;
+}
+.b_text {
+    font-family: OpenSans-Italic;
+    font-size: 22px;
+    padding-right: 176px;
+}
+.sub {
+    color: white;
+}
+
+/*
+	.b_item {
+    padding-top: 590px;
+}
+.b_h2 {
+    font-family: OpenSans-BoldItalic;
+    font-weight: 700;
+    font-size: 30px;
+    padding-bottom: 115px;
+}
+.b_text {
+    font-family: OpenSans-Italic;
+    font-size: 31px;
+}
+.b_btn {
+    width: 280px;
+    height: auto;
+    font-family: OpenSans-ExtraBold;
+    font-weight: 800;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 68px;
+    margin-bottom: 30px;
+}
+.b_submit {
+    font-size: 32px;
+    color: #776c64;
+}*/
+}
